@@ -105,7 +105,7 @@ Currently obsessed with **LangGraph**, **multi-agent systems**, and shipping thi
 
 **Stack:** `LangGraph` `Groq` `Tavily` `Streamlit` `Python`
 
-[![Repo](https://img.shields.io/badge/View_Repo-171717?style=flat-square&logo=github)](https://github.com/KumarAnkit67)
+[![Repo](https://img.shields.io/badge/View_Repo-171717?style=flat-square&logo=github)](https://github.com/KumarAnkit67/AskBuddy)
 
 </td>
 </tr>
