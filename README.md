@@ -21,51 +21,9 @@
 
 ## ◈ About Me
 
-```python
-# ═══════════════════════════════════════════════════════════════
-# Engineer. Agent Builder. Problem Destroyer.
-# ═══════════════════════════════════════════════════════════════
+Full Stack Developer transitioning into AI Engineering. I build agents that don't just respond — they reason, retrieve, and act. Based in Noida, India 🇮🇳 and open to opportunities in the UK 🇬🇧.
 
-class Ankit(AIEngineer):
-
-    def __init__(self):
-        self.title    = "Full Stack Dev → AI Engineer (in progress)"
-        self.location = "Noida, India 🇮🇳  →  Open to UK relocation 🇬🇧"
-        self.company  = "Wingman Partners Solution LLP"
-        self.years_xp = 2  # and counting ↑
-
-        self.superpowers = [
-            "Build AI Agents that reason, retrieve and act",
-            "Design RAG pipelines with Pinecone + FAISS",
-            "Orchestrate multi-agent workflows via LangGraph",
-            "Ship full-stack apps: React Native → FastAPI",
-        ]
-
-        self.currently_obsessed_with = {
-            "framework": "LangGraph",
-            "protocol" : "MCP",
-            "concept"  : "Agentic AI Workflows",
-            "goal"     : "Production-grade AI at scale",
-        }
-
-    def philosophy(self) -> str:
-        return (
-            "Great software doesn't just respond. "
-            "It understands context, retrieves knowledge, "
-            "reasons through problems and takes action."
-        )
-
-    def run(self):
-        build_agent("FreightMind")   # logistics AI orchestration
-        ship_feature()               # every single day
-        learn("LangGraph, MCP, AI Infra")
-        repeat()                     # ∞
-
-# Entry point
-if __name__ == "__main__":
-    ankit = Ankit()
-    ankit.run()  █
-```
+Currently obsessed with **LangGraph**, **multi-agent systems**, and shipping things that actually work in production.
 
 ---
 
@@ -125,14 +83,12 @@ if __name__ == "__main__":
 ### 🚚 FreightMind
 > AI orchestration platform for logistics operations
 
-**What it does:**
 - RAG over operational SOPs & carrier docs
 - Intelligent exception routing with LangGraph
 - Automated carrier API lookups (FedEx, DHL)
 - AI-powered shipment recommendations
-- Customer notification drafting with LLM
 
-**Stack:** `LangGraph` `OpenAI / Gemini` `Pinecone` `Next.js` `PostgreSQL`
+**Stack:** `LangGraph` `OpenAI` `Pinecone` `Next.js` `PostgreSQL`
 
 [![Repo](https://img.shields.io/badge/View_Repo-171717?style=flat-square&logo=github)](https://github.com/KumarAnkit67)
 
@@ -140,13 +96,11 @@ if __name__ == "__main__":
 <td width="50%" valign="top">
 
 ### 🤖 AskBuddy
-> AI-powered assistant with persistent memory & live web search
+> AI assistant with persistent memory & live web search
 
-**What it does:**
 - Streaming LLM responses via Groq
 - Long-term memory persistence across sessions
 - Tool-calling: web search, calculator, code exec
-- Multi-turn conversational UI
 - Real-time Tavily web search integration
 
 **Stack:** `LangGraph` `Groq` `Tavily` `Streamlit` `Python`
@@ -159,14 +113,11 @@ if __name__ == "__main__":
 <td width="50%" valign="top">
 
 ### 🔬 AI Research Agent
-> Autonomous research assistant — searches, reads, synthesizes
+> Autonomous assistant that searches, reads, synthesizes
 
-**What it does:**
-- Autonomous multi-step web research
+- Multi-step autonomous web research
 - Source discovery & credibility scoring
-- Information summarization & synthesis
 - Structured markdown report generation
-- Citation tracking across sources
 
 **Stack:** `LangGraph` `Gemini` `Tavily` `Python`
 
@@ -178,12 +129,9 @@ if __name__ == "__main__":
 ### 🧠 Multi-Agent System (WIP)
 > Custom runtime for orchestrating specialized AI agents
 
-**What it does:**
 - Planner → Router → Executor → Critic loop
 - Shared memory & state across agents
 - MCP tool integration
-- Configurable agent personas & roles
-- Real-time execution tracing
 
 **Stack:** `LangGraph` `MCP` `FastAPI` `OpenAI` `Python`
 
@@ -192,82 +140,6 @@ if __name__ == "__main__":
 </td>
 </tr>
 </table>
-
----
-
-## ◈ Learning Roadmap
-
-```
-FOUNDATIONS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ FRONTIER
-
-✅ Python          ✅ React Native     ✅ APIs            ✅ LangChain
-✅ RAG Basics      ✅ Vector DBs       ✅ Tool Calling     ✅ AI Agents
-
-🔄 LangGraph       🔄 MCP             🔄 Multi-Agent     🔄 AI Infrastructure
-🔄 Advanced RAG    🔄 AI System Design 🔄 Prod AI Systems 🔄 AI SaaS Products
-
-⬜ AI Infra (K8s)  ⬜ Fine-tuning      ⬜ RL + RLHF       ⬜ AI-native products
-```
-
----
-
-## ◈ 2026 Goals
-
-- [ ] 🚀 Ship **5 production-grade AI projects**
-- [ ] 🧠 Master **LangGraph** end-to-end
-- [ ] 🏗 Learn **AI System Design** at scale
-- [ ] 🌍 Contribute to **Open Source** AI tools
-- [ ] 💼 Land an **AI Engineering role** (UK preferred)
-- [ ] 🛠 Launch an **AI SaaS Product**
-- [ ] 📝 Start writing about **building agents in public**
-
----
-
-## ◈ GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KumarAnkit67&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050d1f&title_color=818cf8&icon_color=38bdf8&text_color=94a3b8" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarAnkit67&layout=compact&theme=tokyonight&hide_border=true&bg_color=050d1f&title_color=818cf8&text_color=94a3b8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=KumarAnkit67&theme=tokyonight&hide_border=true&background=050d1f&ring=818cf8&fire=38bdf8&currStreakLabel=818cf8&sideLabels=94a3b8&dates=475569" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KumarAnkit67&theme=tokyo-night&hide_border=true&bg_color=050d1f&color=818cf8&line=3b82f6&point=38bdf8" width="95%"/>
-
-</div>
-
----
-
-## ◈ Philosophy
-
-<div align="center">
-
-> *"Great software doesn't just respond.*
-> *It understands context, retrieves knowledge,*
-> *reasons through problems, and takes action."*
-
-</div>
-
-The systems I care about combine five things:
-
-```
-  REASONING  ──┐
-  RETRIEVAL  ──┤
-  MEMORY     ──┼──▶  Intelligent Systems that Solve Real Problems
-  AUTOMATION ──┤
-  ACTION     ──┘
-```
-
-Not AI demos. Not wrappers. **Systems that work.**
 
 ---
 
