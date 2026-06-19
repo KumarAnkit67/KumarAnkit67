@@ -1,276 +1,292 @@
 <div align="center">
 
-# 👋 Hey, I'm Ankit Kumar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:3b82f6,100:06b6d4&height=200&section=header&text=ANKIT%20KUMAR&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Agent%20Builder%20%E2%80%A2%20Full%20Stack%20Dev&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-### AI Engineer in Progress • React Native Developer • Agent Builder
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&width=700&lines=Building+AI+Agents+that+Reason+%26+Act;LangGraph+%7C+LangChain+%7C+RAG+Pipelines;Multi-Agent+Systems+%7C+MCP+%7C+Vector+Search;React+Native+%7C+Next.js+%7C+FastAPI;Full+Stack+%E2%86%92+AI+Engineering" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+AI+Agents+%26+Intelligent+Systems;React+Native+Developer;LangGraph+%7C+LangChain+%7C+RAG;Always+Learning+Something+New" />
+<br/>
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KumarAnkit67)
+[![Email](https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-<img src="https://komarev.com/ghpvc/?username=KumarAnkit67&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=KumarAnkit67&label=Profile+Views&color=818cf8&style=flat-square" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+## ◈ About Me
 
 ```python
-class Ankit:
+# ═══════════════════════════════════════════════════════════════
+# Engineer. Agent Builder. Problem Destroyer.
+# ═══════════════════════════════════════════════════════════════
+
+class Ankit(AIEngineer):
+
     def __init__(self):
-        self.role = "Software Engineer"
+        self.title    = "Full Stack Dev → AI Engineer (in progress)"
+        self.location = "Noida, India 🇮🇳  →  Open to UK relocation 🇬🇧"
+        self.company  = "Wingman Partners Solution LLP"
+        self.years_xp = 2  # and counting ↑
 
-        self.focus = [
-            "AI Agents",
-            "RAG Systems",
-            "React Native",
-            "Full Stack Development",
-            "Agentic Workflows"
+        self.superpowers = [
+            "Build AI Agents that reason, retrieve and act",
+            "Design RAG pipelines with Pinecone + FAISS",
+            "Orchestrate multi-agent workflows via LangGraph",
+            "Ship full-stack apps: React Native → FastAPI",
         ]
 
-        self.currently_learning = [
-            "LangGraph",
-            "Advanced RAG",
-            "Multi-Agent Systems",
-            "MCP",
-            "AI Infrastructure"
-        ]
+        self.currently_obsessed_with = {
+            "framework": "LangGraph",
+            "protocol" : "MCP",
+            "concept"  : "Agentic AI Workflows",
+            "goal"     : "Production-grade AI at scale",
+        }
 
-        self.goal = (
-            "Build intelligent systems that can reason, "
-            "search, remember and take actions."
+    def philosophy(self) -> str:
+        return (
+            "Great software doesn't just respond. "
+            "It understands context, retrieves knowledge, "
+            "reasons through problems and takes action."
         )
+
+    def run(self):
+        build_agent("FreightMind")   # logistics AI orchestration
+        ship_feature()               # every single day
+        learn("LangGraph, MCP, AI Infra")
+        repeat()                     # ∞
+
+# Entry point
+if __name__ == "__main__":
+    ankit = Ankit()
+    ankit.run()  █
 ```
 
 ---
 
-# 🧠 What I'm Working On
+## ◈ What I'm Building Right Now
 
-* 🤖 Building AI Agents using LangGraph & LangChain
-* 📱 Developing React Native applications
-* 🔍 Exploring RAG and Retrieval Systems
-* ⚡ Learning Agentic AI Workflows
-* 🏗 Building production-grade AI projects
-* 🚀 Transitioning into AI Engineering
-
----
-
-# 🛠️ Tech Stack
-
-## Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+| Project | Status | Stack |
+|---------|--------|-------|
+| 🚚 **FreightMind** — AI orchestration for logistics | 🟢 Active | LangGraph · Pinecone · Next.js · PostgreSQL |
+| 🤖 **AskBuddy** — AI assistant with memory & search | 🟢 Active | LangGraph · Groq · Tavily · Streamlit |
+| 🔬 **AI Research Agent** — Autonomous web researcher | 🔄 Iterating | LangGraph · Gemini · Tavily · Python |
+| 🧠 **Multi-Agent Framework** — Custom agent runtime | 🏗 Building | LangGraph · MCP · FastAPI |
 
 ---
 
-## AI Engineering
+## ◈ Tech Stack
 
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge\&logo=openai)
-![Gemini](https://img.shields.io/badge/Gemini-blue?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-orange?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-green?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-purple?style=for-the-badge)
+### 🧠 AI Engineering
+![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-3b82f6?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-00B388?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-7C3AED?style=for-the-badge&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily-06B6D4?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-818CF8?style=for-the-badge&logoColor=white)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🖥 Frontend
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### ⚙️ Backend & Databases
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## Frontend
+## ◈ Featured Projects
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge\&logo=tailwindcss)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚚 FreightMind
+> AI orchestration platform for logistics operations
+
+**What it does:**
+- RAG over operational SOPs & carrier docs
+- Intelligent exception routing with LangGraph
+- Automated carrier API lookups (FedEx, DHL)
+- AI-powered shipment recommendations
+- Customer notification drafting with LLM
+
+**Stack:** `LangGraph` `OpenAI / Gemini` `Pinecone` `Next.js` `PostgreSQL`
+
+[![Repo](https://img.shields.io/badge/View_Repo-171717?style=flat-square&logo=github)](https://github.com/KumarAnkit67)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AskBuddy
+> AI-powered assistant with persistent memory & live web search
+
+**What it does:**
+- Streaming LLM responses via Groq
+- Long-term memory persistence across sessions
+- Tool-calling: web search, calculator, code exec
+- Multi-turn conversational UI
+- Real-time Tavily web search integration
+
+**Stack:** `LangGraph` `Groq` `Tavily` `Streamlit` `Python`
+
+[![Repo](https://img.shields.io/badge/View_Repo-171717?style=flat-square&logo=github)](https://github.com/KumarAnkit67)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 AI Research Agent
+> Autonomous research assistant — searches, reads, synthesizes
+
+**What it does:**
+- Autonomous multi-step web research
+- Source discovery & credibility scoring
+- Information summarization & synthesis
+- Structured markdown report generation
+- Citation tracking across sources
+
+**Stack:** `LangGraph` `Gemini` `Tavily` `Python`
+
+[![Repo](https://img.shields.io/badge/View_Repo-171717?style=flat-square&logo=github)](https://github.com/KumarAnkit67)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Multi-Agent System (WIP)
+> Custom runtime for orchestrating specialized AI agents
+
+**What it does:**
+- Planner → Router → Executor → Critic loop
+- Shared memory & state across agents
+- MCP tool integration
+- Configurable agent personas & roles
+- Real-time execution tracing
+
+**Stack:** `LangGraph` `MCP` `FastAPI` `OpenAI` `Python`
+
+[![Repo](https://img.shields.io/badge/View_Repo-171717?style=flat-square&logo=github)](https://github.com/KumarAnkit67)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Backend & Databases
+## ◈ Learning Roadmap
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
+```
+FOUNDATIONS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ FRONTIER
 
----
+✅ Python          ✅ React Native     ✅ APIs            ✅ LangChain
+✅ LangChain       ✅ RAG Basics       ✅ Vector DBs      ✅ AI Agents
+✅ FAISS           ✅ Pinecone         ✅ Tool Calling     ✅ Streaming
 
-## Tools
+🔄 LangGraph       🔄 MCP             🔄 Multi-Agent     🔄 AI Infrastructure
+🔄 Advanced RAG    🔄 AI System Design 🔄 Prod AI Systems 🔄 AI SaaS Products
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
-
----
-
-# 🔥 Featured Projects
-
-## 🚚 FreightMind
-
-AI orchestration platform for logistics operations.
-
-### Features
-
-* RAG over operational SOPs
-* Intelligent exception routing
-* Automated carrier API lookups
-* AI-powered recommendations
-* Customer notification drafting
-
-### Stack
-
-```text
-LangGraph
-OpenAI / Gemini
-Pinecone
-Next.js
-PostgreSQL
+⬜ AI Infra (K8s)  ⬜ Fine-tuning      ⬜ RL + RLHF       ⬜ AI-native products
 ```
 
 ---
 
-## 🤖 AskBuddy
+## ◈ 2026 Goals
 
-AI-powered assistant with memory and web search.
-
-### Features
-
-* Streaming responses
-* Memory persistence
-* Tool calling
-* Web search integration
-* Conversational UI
-
-### Stack
-
-```text
-LangGraph
-Groq
-Tavily
-Streamlit
-```
+- [ ] 🚀 Ship **5 production-grade AI projects**
+- [ ] 🧠 Master **LangGraph** end-to-end
+- [ ] 🏗 Learn **AI System Design** at scale
+- [ ] 🌍 Contribute to **Open Source** AI tools
+- [ ] 💼 Land an **AI Engineering role** (UK preferred)
+- [ ] 🛠 Launch an **AI SaaS Product**
+- [ ] 📝 Start writing about **building agents in public**
 
 ---
 
-## 🔬 AI Research Agent
-
-Autonomous research assistant capable of:
-
-* Searching the web
-* Finding sources
-* Summarizing information
-* Generating reports
-
-### Stack
-
-```text
-LangGraph
-Gemini
-Tavily
-Python
-```
-
----
-
-# 📚 Learning Roadmap
-
-```text
-✅ Python
-✅ React Native
-✅ APIs
-✅ LangChain
-✅ AI Agents
-✅ RAG
-
-🔄 LangGraph
-🔄 MCP
-🔄 Multi-Agent Systems
-🔄 AI Infrastructure
-🔄 Production AI Systems
-```
-
----
-
-# 🎯 2026 Goals
-
-* Build 5 production-grade AI projects
-* Master LangGraph
-* Learn AI System Design
-* Contribute to Open Source
-* Launch an AI SaaS Product
-* Transition into an AI Engineering role
-
----
-
-# 📊 GitHub Analytics
+## ◈ GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KumarAnkit67&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KumarAnkit67&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050d1f&title_color=818cf8&icon_color=38bdf8&text_color=94a3b8&border_color=1e3a8a" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarAnkit67&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarAnkit67&layout=compact&theme=tokyonight&hide_border=true&bg_color=050d1f&title_color=818cf8&text_color=94a3b8" />
 
 </div>
 
-<br>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=KumarAnkit67&theme=tokyonight&hide_border=true&background=050d1f&ring=818cf8&fire=38bdf8&currStreakLabel=818cf8&sideLabels=94a3b8&dates=475569" />
+
+</div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=KumarAnkit67&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KumarAnkit67&theme=tokyo-night&hide_border=true&bg_color=050d1f&color=818cf8&line=3b82f6&point=38bdf8" width="95%"/>
 
 </div>
 
 ---
 
-# 🏆 Philosophy
+## ◈ Philosophy
 
-> Great software doesn't just respond.
+<div align="center">
 
-> It understands context, retrieves knowledge, reasons through problems, and takes action.
+> *"Great software doesn't just respond.*
+> *It understands context, retrieves knowledge,*
+> *reasons through problems, and takes action."*
 
-I am passionate about building systems that combine:
+</div>
 
-* Reasoning
-* Retrieval
-* Memory
-* Automation
-* AI Agents
+The systems I care about combine five things:
 
-to solve real-world problems.
-
----
-
-# 🌱 Current Focus
-
-```text
-Building AI Agents
-Learning LangGraph
-Creating RAG Systems
-Exploring Agentic Workflows
-Improving System Design Skills
+```
+  REASONING  ──┐
+  RETRIEVAL  ──┤
+  MEMORY     ──┼──▶  Intelligent Systems that Solve Real Problems
+  AUTOMATION ──┤
+  ACTION     ──┘
 ```
 
+Not AI demos. Not wrappers. **Systems that work.**
+
 ---
 
-# 🤝 Connect With Me
+## ◈ Connect With Me
 
-### 💼 LinkedIn
+<div align="center">
 
-Add Your LinkedIn URL Here
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [linkedin.com/in/YOUR_HANDLE](https://linkedin.com/in/YOUR_HANDLE) |
+| 🌐 Portfolio | [yourportfolio.dev](https://YOUR_PORTFOLIO.dev) |
+| 📧 Email | [your@email.com](mailto:YOUR_EMAIL) |
+| 🐦 Twitter / X | [@YOUR_HANDLE](https://twitter.com/YOUR_HANDLE) |
 
-### 🌐 Portfolio
-
-Add Your Portfolio URL Here
-
-### 📧 Email
-
-Add Your Email Here
+</div>
 
 ---
 
 <div align="center">
 
-## 🚀 Building Today What AI Will Automate Tomorrow
-
-⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:7c3aed&height=120&section=footer&text=Building+Today+What+AI+Will+Automate+Tomorrow&fontSize=14&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
