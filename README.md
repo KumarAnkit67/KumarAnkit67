@@ -8,10 +8,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/ankit-kumar-45b102252)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://ankitportfolio-snowy.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KumarAnkit67)
-[![Email](https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitanand843410@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=KumarAnkit67&label=Profile+Views&color=818cf8&style=flat-square" />
 
